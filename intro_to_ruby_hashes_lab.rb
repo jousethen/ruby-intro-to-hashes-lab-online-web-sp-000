@@ -1,5 +1,5 @@
 def new_hash
-
+hash_browns = {taste: "tenattaten"}
 end
 
 def actor
