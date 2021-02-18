@@ -4,7 +4,7 @@ def new_hash
 end
 
 def actor
-  hash_browns = {:taste => ""}
+  hash_browns = {:taste => "tenattaten"}
   return hash_browns
 end
 
