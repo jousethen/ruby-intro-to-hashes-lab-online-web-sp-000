@@ -4,7 +4,7 @@ def new_hash
 end
 
 def actor
-  hash_browns = {:taste => "tenattaten"}
+  hash_browns = {:name => "Dwayne The Rock Johnson"}
   return hash_browns
 end
 
