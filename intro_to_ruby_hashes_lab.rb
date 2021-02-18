@@ -4,7 +4,8 @@ def new_hash
 end
 
 def actor
-
+  hash_browns = {:taste => ""}
+  return hash_browns
 end
 
 def monopoly
